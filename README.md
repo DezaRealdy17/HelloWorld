@@ -4,3 +4,6 @@ Hello World! If you want to start programming, this would be your first step to 
 
 ## Requirements:
 For your first programm you need some kind of IDE. This would be your space, where you can write your code. An example would be IntelliJ which you can install here: https://www.jetbrains.com/idea/download/#section=mac
+
+### Screenshot
+![Screenshot](Link zum Bild)
